@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/yummeal/static/css/main.249b86a0.chunk.css",
+    "main.js": "/yummeal/static/js/main.25ee2e44.chunk.js",
+    "main.js.map": "/yummeal/static/js/main.25ee2e44.chunk.js.map",
+    "runtime-main.js": "/yummeal/static/js/runtime-main.1c27bb15.js",
+    "runtime-main.js.map": "/yummeal/static/js/runtime-main.1c27bb15.js.map",
+    "static/js/2.c90463a5.chunk.js": "/yummeal/static/js/2.c90463a5.chunk.js",
+    "static/js/2.c90463a5.chunk.js.map": "/yummeal/static/js/2.c90463a5.chunk.js.map",
+    "static/js/3.d0c37146.chunk.js": "/yummeal/static/js/3.d0c37146.chunk.js",
+    "static/js/3.d0c37146.chunk.js.map": "/yummeal/static/js/3.d0c37146.chunk.js.map",
+    "index.html": "/yummeal/index.html",
+    "static/css/main.249b86a0.chunk.css.map": "/yummeal/static/css/main.249b86a0.chunk.css.map",
+    "static/js/2.c90463a5.chunk.js.LICENSE.txt": "/yummeal/static/js/2.c90463a5.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/yummeal/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c27bb15.js",
+    "static/js/2.c90463a5.chunk.js",
+    "static/css/main.249b86a0.chunk.css",
+    "static/js/main.25ee2e44.chunk.js"
+  ]
+}
